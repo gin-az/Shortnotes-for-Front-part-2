@@ -48,7 +48,7 @@ OPENid - это слой учетных данных поверх OAuth 2.0 (д�
 **`refresh=token`** - живет более долго (30 дней например), необходим для обновления access-токена. Хранится в куках.
 
 
-![oauth](./img/AUTH_Oauth.png)
+![oauth](./img/AUTH_OAuth2.png)
 
 >OAuth используется для:
 > - Предоставления доступа к API;
@@ -84,11 +84,6 @@ https://www.youtube.com/watch?v=fN25fMQZ2v0&ab_channel=UlbiTV
 https://www.youtube.com/watch?v=kHL-zwEuSQo&ab_channel=SergeiCalabonga
 https://www.youtube.com/watch?v=i7vuFHH0nxY&ab_channel=DotNetRu
 
-
-
-# Welcome to StackEdit!
-
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
 # Files

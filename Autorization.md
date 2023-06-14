@@ -76,12 +76,14 @@ OPENid - это слой учетных данных поверх OAuth 2.0 (д�
 
 ---
 
-
-
 https://habr.com/ru/companies/dataart/articles/262817/
+
 https://deworker.pro/edu/series/http-basics/authentication-headers
+
 https://www.youtube.com/watch?v=fN25fMQZ2v0&ab_channel=UlbiTV
+
 https://www.youtube.com/watch?v=kHL-zwEuSQo&ab_channel=SergeiCalabonga
+
 https://www.youtube.com/watch?v=i7vuFHH0nxY&ab_channel=DotNetRu
 
 
